@@ -1,4 +1,6 @@
 Step 1:
     Creation of the folder 0x03-sass_scss,
 Step 2:
-    run the command "npm install -v 3.7.4"
+    run the command "npm install -g sass"
+Step 3: Check the verion by runnig the command "npx sass --version"
+    and get the output "1.89.0 compiled with dart2js 3.7.3"
